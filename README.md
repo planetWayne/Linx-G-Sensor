@@ -11,3 +11,12 @@ I eventually found this version buried in a full set of drivers for various tabl
 To install, unzip and run the batch file. This installs the driver, runs the relavant reg tweak and then reboots.
 
 kxaccel-1.0.13.20-win8-x86 driver + orientation batch file for Linx 10 Tablet
+
+
+Also for reference - Intel Atom Device Drivers also needed.
+https://downloadcenter.intel.com/download/25311/SOC-Intel-Driver-Package-for-Baytrail-T-SOC-on-Intel-Compute-Stick 
+Intel Graphics Drivers...
+https://downloadcenter.intel.com/download/29969?v=t
+
+and the Linx Site...
+http://support.linxtablets.com/Products/Linx10v32/
